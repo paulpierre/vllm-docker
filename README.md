@@ -1,4 +1,4 @@
-# vllm-docker
+# ▀▄▀ █▄ █▄ █▚▞▌ docker-compose
 
 Run Llama-3.2-11B-Vision-Instruct with 4-bit quantization using vLLM and Open WebUI.
 
